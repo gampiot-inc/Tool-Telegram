@@ -74,7 +74,7 @@ dependencies {
     val koinVersion = "4.0.0"
     
     implementation("androidx.appcompat:appcompat:1.7.0")
-    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.8.6")
+    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.8.7")
     implementation("androidx.core:core-ktx:1.13.1")
     implementation("androidx.datastore:datastore-preferences:1.1.1")
     implementation("com.google.android.material:material:1.13.0-alpha07")

@@ -9,12 +9,12 @@ plugins {
 
 android {
     namespace = "dev.trindadedev.tooltelegram"
-    compileSdk = 34
+    compileSdk = 35
     
     defaultConfig {
         applicationId = "dev.trindadedev.tooltelegram"
         minSdk = 26
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 2
         versionName = "1.0.1"
         
